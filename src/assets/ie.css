@@ -17,5 +17,9 @@ footer {
 }
 
 .navbar-brand {
-  background:url('images/sprite.png') no-repeat;
+	background:url('images/sprite.png') no-repeat;
+}
+
+.popular-venues .count {
+	background:url('images/sprite.png') no-repeat 6px -350px;
 }

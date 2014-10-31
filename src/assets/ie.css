@@ -1,0 +1,21 @@
+.navbar li a {
+  font-weight: normal !important;
+}
+
+.carousel .carousel-caption {
+	background:red;
+	background:url('images/sprite.png') no-repeat 0 0;
+	width:592px;
+}
+
+footer {
+	font-weight: normal;
+}
+
+.title .texture-lines {
+	background:url('images/sprite.png') 0 -318px;
+}
+
+.navbar-brand {
+  background:url('images/sprite.png') no-repeat;
+}
